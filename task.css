@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display&display=swap');
+body {
+   background-color: rgb(235, 208, 168); 
+
+}
+
+.task-heading{
+    text-align: center;
+color: rgb(45, 173, 131);
+font-family: 'Playfair Display', serif;
+font-size: 1,5rem;
+}
+
+
+.ingredients{
+    border: 1px solid black; 
+    width: 50%;
+    margin:0 auto;
+    
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.insructions{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.insructions ol{
+    border: 1px solid black;
+margin: 0 auto;
+width: 75%;
+}
+
+.img{
+ object-fit: cover;
+}
+
+
+.footer{
+color: rgb(39, 85, 79);
+font-family: 'Bebas Neue', cursive;
+text-align: center;
+}
